@@ -36,13 +36,14 @@ body {
 }
 
 #flipAnimate div div {
-  background:#42c58a;
+  background:#f0c129;
+
 }
 #flipAnimate div:first-child div {
-  background:#4ec7f3;
+  background:#42c58a;
 }
 #flipAnimate div:last-child div {
-  background:#DC143C;
+  background:#0099ff;
 }
 
 @keyframes show {
